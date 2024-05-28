@@ -1,0 +1,36 @@
+D:\CTDL&GT_K22\DoAnSoSau\DoAnSoSau\bin\Debug\DoAnSoSau.exe.config
+D:\CTDL&GT_K22\DoAnSoSau\DoAnSoSau\bin\Debug\DoAnSoSau.exe
+D:\CTDL&GT_K22\DoAnSoSau\DoAnSoSau\bin\Debug\DoAnSoSau.pdb
+D:\CTDL&GT_K22\DoAnSoSau\DoAnSoSau\obj\Debug\DoAnSoSau.csproj.AssemblyReference.cache
+D:\CTDL&GT_K22\DoAnSoSau\DoAnSoSau\obj\Debug\DoAnSoSau.csproj.SuggestedBindingRedirects.cache
+D:\CTDL&GT_K22\DoAnSoSau\DoAnSoSau\obj\Debug\DoAnSoSau.csproj.CoreCompileInputs.cache
+D:\CTDL&GT_K22\DoAnSoSau\DoAnSoSau\obj\Debug\DoAnSoSau.exe
+D:\CTDL&GT_K22\DoAnSoSau\DoAnSoSau\obj\Debug\DoAnSoSau.pdb
+C:\Users\ToanLe\Downloads\DoAnSoSau\DoAnSoSau\bin\Debug\DoAnSoSau.exe.config
+C:\Users\ToanLe\Downloads\DoAnSoSau\DoAnSoSau\obj\Debug\DoAnSoSau.exe
+C:\Users\ToanLe\Downloads\DoAnSoSau\DoAnSoSau\obj\Debug\DoAnSoSau.pdb
+C:\Users\ToanLe\Downloads\DoAnSoSau\DoAnSoSau\bin\Debug\DoAnSoSau.exe
+C:\Users\ToanLe\Downloads\DoAnSoSau\DoAnSoSau\bin\Debug\DoAnSoSau.pdb
+C:\Users\ToanLe\Downloads\DoAnSoSau\DoAnSoSau\obj\Debug\DoAnSoSau.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Zalo Received Files\DoAnSoSau\DoAnSoSau\DoAnSoSau\bin\Debug\DoAnSoSau.exe.config
+C:\Users\ASUS\Documents\Zalo Received Files\DoAnSoSau\DoAnSoSau\DoAnSoSau\bin\Debug\DoAnSoSau.exe
+C:\Users\ASUS\Documents\Zalo Received Files\DoAnSoSau\DoAnSoSau\DoAnSoSau\bin\Debug\DoAnSoSau.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\DoAnSoSau\DoAnSoSau\DoAnSoSau\obj\Debug\DoAnSoSau.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Zalo Received Files\DoAnSoSau\DoAnSoSau\DoAnSoSau\obj\Debug\DoAnSoSau.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\Zalo Received Files\DoAnSoSau\DoAnSoSau\DoAnSoSau\obj\Debug\DoAnSoSau.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Zalo Received Files\DoAnSoSau\DoAnSoSau\DoAnSoSau\obj\Debug\DoAnSoSau.exe
+C:\Users\ASUS\Documents\Zalo Received Files\DoAnSoSau\DoAnSoSau\DoAnSoSau\obj\Debug\DoAnSoSau.pdb
+C:\Users\ToanLe\Downloads\DoAnSoSau\DoAnSoSau\DoAnSoSau\bin\Debug\DoAnSoSau.exe.config
+C:\Users\ToanLe\Downloads\DoAnSoSau\DoAnSoSau\DoAnSoSau\obj\Debug\DoAnSoSau.exe
+C:\Users\ToanLe\Downloads\DoAnSoSau\DoAnSoSau\DoAnSoSau\obj\Debug\DoAnSoSau.pdb
+C:\Users\ToanLe\Downloads\DoAnSoSau\DoAnSoSau\DoAnSoSau\bin\Debug\DoAnSoSau.exe
+C:\Users\ToanLe\Downloads\DoAnSoSau\DoAnSoSau\DoAnSoSau\bin\Debug\DoAnSoSau.pdb
+C:\Users\ToanLe\Downloads\DoAnSoSau\DoAnSoSau\DoAnSoSau\obj\Debug\DoAnSoSau.csprojResolveAssemblyReference.cache
+D:\DoAnSoSau\DoAnSoSau\DoAnSoSau\bin\Debug\DoAnSoSau.exe.config
+D:\DoAnSoSau\DoAnSoSau\DoAnSoSau\bin\Debug\DoAnSoSau.exe
+D:\DoAnSoSau\DoAnSoSau\DoAnSoSau\bin\Debug\DoAnSoSau.pdb
+D:\DoAnSoSau\DoAnSoSau\DoAnSoSau\obj\Debug\DoAnSoSau.csproj.AssemblyReference.cache
+D:\DoAnSoSau\DoAnSoSau\DoAnSoSau\obj\Debug\DoAnSoSau.csproj.SuggestedBindingRedirects.cache
+D:\DoAnSoSau\DoAnSoSau\DoAnSoSau\obj\Debug\DoAnSoSau.csproj.CoreCompileInputs.cache
+D:\DoAnSoSau\DoAnSoSau\DoAnSoSau\obj\Debug\DoAnSoSau.exe
+D:\DoAnSoSau\DoAnSoSau\DoAnSoSau\obj\Debug\DoAnSoSau.pdb
